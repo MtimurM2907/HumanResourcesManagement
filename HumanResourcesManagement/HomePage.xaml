@@ -1,0 +1,16 @@
+﻿<Page x:Class="HumanResourcesManagement.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HumanResourcesManagement"
+      mc:Ignorable="d" 
+      d:DesignHeight="464" d:DesignWidth="590"
+      Name ="Home"
+      Title="HomePage">
+
+
+    <Grid Background="#FFA8E6B7">
+        <TextBox Background="#FFA8E6B7" Text="В приложении можно редактировать список сотрудников." TextAlignment="Center" TextWrapping="Wrap" FontSize="20" Margin="93,170,93,170" BorderBrush="#FFA8E6B7"/>
+    </Grid>
+</Page>
